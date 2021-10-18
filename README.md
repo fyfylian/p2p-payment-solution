@@ -1,4 +1,4 @@
-# Peer-to-peer payment integration to a messaging app using Flutter 💰
+# Peer-to-peer payment integration to a messaging app using Flutter
 
 This project shows how to integrate a peer-to-peer payment solution to your [Stream Chat](https://getstream.io/) using [Rapyd's](https://www.rapyd.net/) Wallet API with the help of Flutter.
 
@@ -31,7 +31,7 @@ For building and running this project locally, follow the steps below:
 * Clone this repository:
 
    ```sh
-   git clone https://github.com/sbis04/stream_payment.git
+   git clone https://github.com/fyfylian/stream-payment-app.git
    ```
 
 * Navigate to the project directory:
